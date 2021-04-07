@@ -1,3 +1,18 @@
 test
 
 typed in eclipse
+
+-------------------------------------
+
+getting latest changes from github:
+
+go to local repository in cmd
+git pull
+now local repository matches github repository
+
+uploading changes to github:
+
+make change
+move file to 'Staged Changes' in Git Staging in Eclipse
+Commit and push
+now the changes have been uploaded
